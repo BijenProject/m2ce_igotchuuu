@@ -1,0 +1,1 @@
+C:/xampp/htdocs/m2ce_igotchuuu/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js

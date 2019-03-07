@@ -1,0 +1,1 @@
+C:/xampp/htdocs/m2ce_igotchuuu/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/responsive.js

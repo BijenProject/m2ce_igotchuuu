@@ -1,0 +1,1 @@
+C:/xampp/htdocs/m2ce_igotchuuu/lib/web/jquery/jquery-ui-1.9.2.js

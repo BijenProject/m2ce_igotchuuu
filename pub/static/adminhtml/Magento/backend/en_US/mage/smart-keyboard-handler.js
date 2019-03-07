@@ -1,0 +1,1 @@
+C:/xampp/htdocs/m2ce_igotchuuu/lib/web/mage/smart-keyboard-handler.js
